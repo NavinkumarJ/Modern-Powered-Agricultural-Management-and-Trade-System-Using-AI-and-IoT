@@ -1,5 +1,5 @@
 
-# 🌾 Smart Agriculture Management & Trade System (SAMTS)
+# 🌾 Modern Powered Agricultural Management and Trade System Using AI and IoT
 ### _AI-Powered Farming • Smart Trading • Intelligent Decision Support_
 
 ---
